@@ -21,7 +21,6 @@ Aqui estão as tecnologias usadas neste projeto.
 
 ## Imagens
  
-* **Index**
 ![Home](https://github.com/ThiagoMendes92/Form-de-Login/blob/main/img/login.png)
  
 
